@@ -1,3 +1,5 @@
+import React from "react";
+
 export const metadata = {
   title: "User App",
   description: "User list application",
